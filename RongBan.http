@@ -1,0 +1,6 @@
+@RongBan_HostAddress = http://localhost:5188
+
+GET {{RongBan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
